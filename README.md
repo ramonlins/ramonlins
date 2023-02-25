@@ -2,7 +2,7 @@ Hi folks, let's partake in some open source collaboration. To find out more abou
 
 | CV | Publications |
 |----|--------------|
-| [LinkedIn](https://www.linkedin.com/in/douglas-de-rizzo-meneghetti-65757720) | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F5ocL2iPYqSV3qJ2i1Yt92LlL2kJp5Mu6AODSIYuGLldsomPF9GcM-N2iFl-sY2p5LQJICZ79dL6rG4O2KBwXGU-QZUDg&user=6Eh1dp0AAAAJ)
+| [LinkedIn](https://www.linkedin.com/in/ramonlins) | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F5ocL2iPYqSV3qJ2i1Yt92LlL2kJp5Mu6AODSIYuGLldsomPF9GcM-N2iFl-sY2p5LQJICZ79dL6rG4O2KBwXGU-QZUDg&user=6Eh1dp0AAAAJ)
 
 Currently working on Deep Reinforcement Learning personal projets.
 
