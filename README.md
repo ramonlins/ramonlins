@@ -7,6 +7,8 @@ PhD in Electrical and Computer Engineering with expertise in:
 - Deep Learning
 - Computer Vision
 - Reinforcement Learning
+- Computer Graphics
+- Game Development
 
 Currently working on Machine Learning projects.
 
