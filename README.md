@@ -1,6 +1,6 @@
 ## 🎯 About Me
 
-Hi folks, I am PhD in Electrical and Computer Engineering with expertise in:
+Hi folks, I am interesting in:
 - Machine Learning
 - Deep Learning
 - Computer Vision
