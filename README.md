@@ -8,7 +8,7 @@ Hi folks, I am interesting in:
 - Computer Graphics
 - Game Development
 
-Currently working on Machine Learning projects.
+Currently working on AI projects and game development.
 
 <p align="center"><a href="#"><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonlins&layout=compact&langs_count=20&hide_border=true&theme=merko&exclude_repo=" alt="ramonlins's GitHub stats"/> </a></p>
 
