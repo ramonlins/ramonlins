@@ -1,8 +1,6 @@
 ## 🎯 About Me
 
-Hi folks, let's partake in some open-source collaboration. To find out more about me, check the stuff below:
-
-PhD in Electrical and Computer Engineering with expertise in:
+Hi folks, I am PhD in Electrical and Computer Engineering with expertise in:
 - Machine Learning
 - Deep Learning
 - Computer Vision
